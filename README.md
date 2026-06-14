@@ -72,7 +72,7 @@ A custom dataset containing approximately **3,500+ materials** was created using
 
 The Random Forest model achieved the highest classification accuracy among all evaluated algorithms.
 
-![Accuracy Comparison](images/accuracy_comparison.png)
+![Accuracy Comparison](accuracy_comparison.png)
 
 ---
 
@@ -80,7 +80,7 @@ The Random Forest model achieved the highest classification accuracy among all e
 
 ROC-AUC analysis confirms strong predictive performance, with Random Forest achieving the best discrimination capability.
 
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](roc_curve.png)
 
 ---
 
@@ -88,7 +88,7 @@ ROC-AUC analysis confirms strong predictive performance, with Random Forest achi
 
 The confusion matrix demonstrates effective classification with relatively low false-positive and false-negative rates.
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ---
 
@@ -103,7 +103,7 @@ Feature importance analysis indicates that **Band Gap** is the most influential 
 3. Volume
 4. Formation Energy
 
-![Feature Importance](images/feature_importance_plot.png)
+![Feature Importance](feature_importance_plot.png)
 
 ---
 
@@ -113,7 +113,7 @@ SHAP (SHapley Additive exPlanations) was used to understand how individual featu
 
 The analysis reveals that electronic properties such as Band Gap and Density strongly impact classification outcomes.
 
-![SHAP Analysis](images/shap_plot.png)
+![SHAP Analysis](shap_plot.png)
 
 ---
 
@@ -143,7 +143,7 @@ SiO2
 
 **Non-Topological**
 
-![Prediction Example](images/prediction_example.png)
+![Prediction Example](prediction_example.png)
 
 ---
 
