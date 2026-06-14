@@ -143,7 +143,7 @@ SiO2
 
 **Non-Topological**
 
-![Prediction Example](Screenshot 2026-06-13 224903.png)
+![Prediction Example](Screenshot_2026-06-13_224903.png)
 
 ---
 
